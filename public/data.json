@@ -1,0 +1,593 @@
+[
+    {
+        "id": 1,
+        "title": "Background Remove",
+        "imgAfter": "https://i.ibb.co/F64gwsv/I753.jpg",
+        "imgBefore": "https://i.ibb.co/zZ2GSkz/Done.jpg",
+        "description": [
+            {
+                "disc": " Whether you are an online seller or a retailer, you must remove inappropriate backgrounds from your product images. You may have many images that need to be trimmed with unwanted objects in the background.Shake off your worries and turn to us!"
+            },
+            {
+                "disc": "Photo background removal and editing services are the most sought after photo editing services by our clients It doesn't matter how complex the image is."
+            },
+            {
+                "disc": "We can flawlessly separate the unwanted background from the image.As an e-commerce merchant or retailer, you may need a white background or a colored background. "
+            },
+            {
+                "disc": "If you want to sell on an e-commerce platform like Amazon or eBay, you'll probably need a white background for your product images."
+            },
+            {
+                "disc": "If you want to sell in your online store, you can have a colorful background that matches your brand colors.We usually use the clipping path tool to remove the background from product images."
+            },
+            {
+                "disc": "With this professional and hand-drawn approach, we ensure a flawless finish to almost all types of product photos. Some products may have soft and rough edges, such as fur dolls, blankets, etc.,  which do not require a clipping path.Instead, we use image masking techniques to cut the background and maintain high image quality. We also offer some other photo background editing services,such as background removal, background change or replacement, background blurring, background merging, etc., which are much needed by professional photographers."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/dmGnTnv/RAW.jpg",
+                "before": "https://i.ibb.co/yY8qyVW/Done55.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/1vwCGM3/Done1.jpg",
+                "before": "https://i.ibb.co/84DRJWR/RA1W.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Basic Background Remove",
+                "price": 0.4
+            },
+            {
+                "name": "Simple Background Remove",
+                "price": 0.8
+            },
+            {
+                "name": "Medium Background Remove",
+                "price": 1.6
+            },
+            {
+                "name": "Complex Background Remove",
+                "price": 3.5
+            },
+            {
+                "name": "Super Complex Background Remove",
+                "price": 7.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Beauty Retouch",
+        "imgAfter": "https://i.ibb.co/pyNBChc/Raw.jpg",
+        "imgBefore": "https://i.ibb.co/bmPzxKq/Done.jpg",
+        "description": [
+            {
+                "disc": "Beauty or skin retouching is a process of editing the features of a person to enhance them and make them stand out. "
+            },
+            {
+                "disc": "Skin retouching removes unwanted features from models in the picture like pimples, scars, moles, tattoos, etc. Basic retouching is defined as the simple changes made to an image."
+            },
+            {
+                "disc": " Basic retouching features include teeth whitening, blemish removal, skin smoothing, interference removal, brightening etc."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Basic Beauty Retouch",
+                "price": 1.0
+            },
+            {
+                "name": "Simple Beauty Retouch",
+                "price": 1.8
+            },
+            {
+                "name": "Medium Beauty Retouch",
+                "price": 3.5
+            },
+            {
+                "name": "Complex Beauty Retouch",
+                "price": 5.5
+            },
+            {
+                "name": "Super Complex Beauty Retouch",
+                "price": 7.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Clipping path",
+        "imgAfter": "https://i.ibb.co/qNhQ6vp/Done.png",
+        "imgBefore": "https://i.ibb.co/NW86bHL/Cycle-2021-11-24-1448-001.jpg",
+        "description": [
+            {
+                "disc": "If you need pixel-perfect image editing, look no further than Clipping Path Services. It is the perfect solution for removing background from an image or isolating specific elements within an image for further editing. "
+            },
+            {
+                "disc": "It's easy to use, efficient, cost-effective and time-efficient, so why not give it a try?We use photoshop pen tool to remove background, replace background, remove mannequin, remove unwanted objects, easy path selection etc. "
+            },
+            {
+                "disc": "Professional photographers, retailers, e-commerce owners, online stores, prepress companies, creative directors. , studio managers, and advertising agencies are some of the people who regularly use our services."
+            },
+            {
+                "disc": "Our clipping path services come in a range of prices from basic, simple, medium, complex, multiple and ultra-complex. Pricing is based on the complexity of the image."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Basic Clipping Path",
+                "price": 0.4
+            },
+            {
+                "name": "Simple Clipping Path",
+                "price": 0.8
+            },
+            {
+                "name": "Medium Clipping Path",
+                "price": 1.6
+            },
+            {
+                "name": "Complex Clipping Path",
+                "price": 3.5
+            },
+            {
+                "name": "Super Complex Clipping Path",
+                "price": 7.2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Color correction",
+        "imgAfter": "https://i.ibb.co/vP2Jw99/RAW7.jpg",
+        "imgBefore": "https://i.ibb.co/TDf0J37/Done5.jpg",
+        "description": [
+            {
+                "disc": "We believe we will provide the best color correction and editing services you need. Our service is one of the most popular and required Photoshop based photo editing services.This service is generally applied to different types of photography like model photography, e-commerce products or fashion photography,nature photography etc."
+            },
+            {
+                "disc": " Usually due to lighting, perspective, photographic environment, camera settings, the product may have natural color during photography. After modification, various Photoshop color correction techniques, apply filters, to retain/obtain natural colors.But in most cases, a combination of white balance, gray balance, color strength,color vibrancy is required.In terms of color correction, to make the product more attractive, according to customers' needs, the color can be intentionally changed to natural color."
+            },
+            {
+                "disc": "For example, depending on the type of product and environment, different types of lighting effects, warm up, brightness, contrast, sharpening etc. are applied. In addition, damaged images, such as over or under exposed images, can be brought back to their initial normal state using Photoshop's color correction."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/Sfb7tHT/UF6848.jpg",
+                "before": "https://i.ibb.co/j3jDDj3/Done.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/929grHv/RAW-6.jpg",
+                "before": "https://i.ibb.co/gZchVND/Done-5.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/nwLrtNt/IMG-0625-6.jpg",
+                "before": "https://i.ibb.co/pR4P5qj/Done5-5.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Basic Color Correction",
+                "price": 1.3
+            },
+            {
+                "name": "Simple Color Correction",
+                "price": 1.5
+            },
+            {
+                "name": "Medium Color Correction",
+                "price": 2.0
+            },
+            {
+                "name": "Exposure Correction",
+                "price": 1.45
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "E_commarce",
+        "imgAfter": "https://i.ibb.co/ZGRvCH9/FASHION-BEAUTY-FIX-0110.jpg",
+        "imgBefore": "https://i.ibb.co/VVK2LQV/Done-0110.jpg",
+        "description": [
+            {
+                "disc": "E-Commerce photo editing is a process of making various adjustments to photos to make them more appealing to customers on online shopping platforms. "
+            },
+            {
+                "disc": "This may include improving the lighting, contrast, and color, or removing any blemishes or distractions in the background. An adequately edited snapshot provides potential customers with knowledge about things and substantial experience."
+            },
+            {
+                "disc": " Even though product prices and descriptions are essential, catching a professional look at the goods is always more motivating. Online, customers cannot touch or feel the merchandise."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/ynNND9s/RAW5.jpg",
+                "before": "https://i.ibb.co/6PP1P8c/Done3.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Basic E_commarce",
+                "price": 0.4
+            },
+            {
+                "name": "Simple E_commarce",
+                "price": 0.8
+            },
+            {
+                "name": "Medium E_commarce",
+                "price": 1.6
+            },
+            {
+                "name": "Complex E_commarce",
+                "price": 3.5
+            },
+            {
+                "name": "Super Complex E_commarce",
+                "price": 7.2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Ghost Mannequin",
+        "imgAfter": "https://i.ibb.co/f48nvNS/Raw4.jpg",
+        "imgBefore": "https://i.ibb.co/Bzncb78/KS101247-KALAMATA-1.jpg",
+        "description": [
+            {
+                "disc": "Ghost Mannequin or Neck Joint service is a type of image manipulation service. Tools like clone stam and many more are used to do this type of photo editing. Neck joint Service is same as Ghost Mannequin in Photoshop. It is the method of removing the mannequin from the image of the apparel. The main intention in this service is to simply cut out the mannequin out of the dress and make it look like its floating in mid air. "
+            },
+            {
+                "disc": "'Dream Weave' are provide ghot manneqin photo cutout, mannequn image clipping path, ghost image manipilation, and ghost mannequin editing. Armed with  a team of competent photo editors, our company can remove or add parts to make your images perfect. Our specialty lies in adding touch ups and enhancement that make your apparel turns out to be naturally beautiful .The high quality photos we deliver will help you display your dummy pictures on your site and grab the attention of more customers. We at outsourse Imaging Solutions, provide the best service,beacause we trust in quality and reputation so that our clients relay on us. "
+            },
+            {
+                "disc": "We are passionate in offering the best photo editing services to all the sectors worldwide. We trust in quality service and provide the quality service to our clients and maintain the level of dignity and standard of our 'Dream Weave' company."
+            },
+            {
+                "disc": "'Neck Joint or Ghost Mannequin Services is the clothing photo editing process in Photoshop. Neck Joint Or Ghost Mannequin service is one of the perfect solutions to hide the mannequin from the dress photo.'"
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/9nkp14n/Rawneck.jpg",
+                "before": "https://i.ibb.co/mXJX25w/Done.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/m8rQWST/Raw3.jpg",
+                "before": "https://i.ibb.co/SrvFgQM/Done2.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Neck Joint On Ghost Mannequin",
+                "price": 1.0
+            },
+            {
+                "name": "Bottom Joint On Ghost Mannequin",
+                "price": 1.5
+            },
+            {
+                "name": "Sleeves Joint On Ghost Mannequin",
+                "price": 2.0
+            },
+            {
+                "name": "3D/360° Packshot Ghost Mannequin Effects",
+                "price": 2.0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Jewellery Retouch",
+        "imgAfter": "https://i.ibb.co/wgRJBSS/Raw.jpg",
+        "imgBefore": "https://i.ibb.co/1Tsy6Lx/Done.jpg",
+        "description": [
+            {
+                "disc": "We are offering Jwellery retouch. Jewelry retouching is the process of editing jewelry images to enhance its quality in order to attract the market. It involves common enhancements such as color correction, background removal, and blemish removal, among many others."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/n0hsGFv/RAW3.jpg",
+                "before": "https://i.ibb.co/7Wv7qVg/Done3.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/KqJCBxz/RAW2.jpg",
+                "before": "https://i.ibb.co/dkWyxLg/Done2.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Basic Jewellery  Retouch ",
+                "price": 0.4
+            },
+            {
+                "name": "Simple Jewellery  Retouch",
+                "price": 0.8
+            },
+            {
+                "name": "Medium Jewellery  Retouch",
+                "price": 1.6
+            },
+            {
+                "name": "Complex Jewellery  Retouch",
+                "price": 3.5
+            },
+            {
+                "name": "Super Complex Jewellery  Retouch",
+                "price": 5.0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Masking",
+        "imgAfter": "https://i.ibb.co/MCKhQZK/RawT.jpg",
+        "imgBefore": "https://i.ibb.co/j8fzgbW/LG-SET-YOUR-MOVIES-FREE31291-HERO-TALENT.jpg",
+        "description": [
+            {
+                "disc": "Photo masking is a modern way of presenting your product images. You can use the masking service to make the background of your photo completely white or any other color. In particular, for affiliate programs like Amazon, you must make the background of your product photo white or your photo will not be approved."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Layer Masking",
+                "price": 1.0
+            },
+            {
+                "name": "Alpha Channel Masking",
+                "price": 1.4
+            },
+            {
+                "name": "Fur & Hair Masking",
+                "price": 2.99
+            },
+            {
+                "name": "Refine Edge Masking",
+                "price": 2.99
+            },
+            {
+                "name": "Transparent Image Masking/Object Image Masking",
+                "price": 2.49
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Multy Path",
+        "imgAfter": "https://i.ibb.co/D49rFdw/Capture.jpg",
+        "imgBefore": "https://i.ibb.co/2ccNJFn/AA59-CL2595-Lipstick-0318.jpg",
+        "description": [
+            {
+                "disc": "Dream Weave offers a very trendy Photoshop Multipath service. Multi clipping path is a very unique process of clipping the original background of a photo with the sake of implanting a new background. It is closely related with clipping path. Practically, Photoshop Multipath or multiple clipping paths or is a procedure of altering color aspect of a single image or a certain portion of the image, transform in any form in terms of opacity change adding extra color effect, making color correction, rotation, and more. This whole process is needed to cut some parts or objects from the picture for additional image manipulation in Photoshop."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Bacis Multy Path",
+                "price": 1.2
+            },
+            {
+                "name": "Simple Multy Path",
+                "price": 1.5
+            },
+            {
+                "name": "Medium Multy Path",
+                "price": 2.2
+            },
+            {
+                "name": "Complex Multy Path",
+                "price": 3.0
+            },
+            {
+                "name": "Super Complex Multy Path",
+                "price": 6.2
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Natural shadow",
+        "imgAfter": "https://i.ibb.co/s5pdTLL/Raw.jpg",
+        "imgBefore": "https://i.ibb.co/GvhmpRH/Done.jpg",
+        "description": [
+            {
+                "disc": "The natural shadow effects are the ones that align with the real-world lighting setup. A natural shadow edit is when you create a realistic shadow for images without any due to on-set lighting limitations or complex, uneven edges. The natural shadow makes it appear as though the object is resting on a non-reflective surface."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/Rpg6dhy/RAWB.jpg",
+                "before": "https://i.ibb.co/RpmFYrp/23B.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/4MQ7Fzn/RAW2.jpg",
+                "before": "https://i.ibb.co/xM2PBHS/Done2.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Drop Shadow Creation/Retain Original Shadow",
+                "price": 0.49
+            },
+            {
+                "name": "Reflection Shadow Creation/Shadow Removal Service",
+                "price": 0.99
+            },
+            {
+                "name": "Realistic Shadow Creation",
+                "price": 1.49
+            },
+            {
+                "name": "Highlight & Shadow on Portrait",
+                "price": 4.49
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Retoucing",
+        "imgAfter": "https://i.ibb.co/S5TN4C9/3959-Retouching-2.jpg",
+        "imgBefore": "https://i.ibb.co/j6B2HXk/Done2.jpg",
+        "description": [
+            {
+                "disc": "TBetter Product photographs are a huge factor for online shops. Because it gives the visual of your product. People search for a product, they get a list of shops and choose the best one. What could make you more appealing is a more realistic viewing experience….."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Basic Retouching",
+                "price": 0.8
+            },
+            {
+                "name": "Medium Retouching ",
+                "price": 1.2
+            },
+            {
+                "name": "Complex Retouching",
+                "price": 1.5
+            },
+            {
+                "name": "Super Complex Retouching",
+                "price": 2.0
+            }
+        ]
+    },
+
+    {
+        "id": 12,
+        "title": "Shadow Services",
+        "imgAfter": "https://i.ibb.co/7t8TzJv/raw.jpg",
+        "imgBefore": "https://i.ibb.co/bvsW3L7/work-file.jpg",
+        "description": [
+            {
+                "disc": "Photoshop shadow service is one of the most important photo editing services for product display. There are some products which look unusual & unattractive in their raw, naked, and wild format. For this, shadow creation in Photoshop for product display is very much important and necessary."
+            },
+            {
+                "disc": "Generally, reflection shadow, natural shadow, drop shadow or original shadow is applied to product photographs such as clothing items (shirt, T-shirt, lingerie, underwear, etc.), product items (book, table cloth, pen, mobile, wallet, flat items, simple ring, flat chain, ear ring, various jewelry, etc.). "
+            },
+            {
+                "disc": "While creating shadows on products for display, we perform couple of photo editing techniques, viz. remove background of the product (using clipping path or image masking), clean noises and distractions, enhance & retouch the photo, bring out the best color with color correction, and finally apply the best shadowing strategy to give the product a natural look and shape."
+            },
+            {
+                "disc": "There are many product photographs where natural shadow of products are created by studio lighting, perspective etc. And some customers want to retain the shadow or give the best shadow and 3D look to their image. The Product Photo Shadowing Service can be used for various media including websites, e-commerce sites, product catalogs, brochures, digital media ads, printing media & magazine ads, etc."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Drop Shadow Creation/Retain Original Shadow",
+                "price": 0.49
+            },
+            {
+                "name": "Reflection Shadow Creation/Shadow Removal Service",
+                "price": 0.99
+            },
+            {
+                "name": "Realistic Shadow Creation",
+                "price": 1.49
+            },
+            {
+                "name": "Highlight & Shadow on Portrait",
+                "price": 4.49
+            }
+        ]
+    },
+
+    {
+        "id": 14,
+        "title": "Symettic",
+        "imgAfter": "https://i.ibb.co/S6rJ3vJ/RAW3.jpg",
+        "imgBefore": "https://i.ibb.co/XZQtVbP/Done4.jpg",
+        "description": [
+            {
+                "disc": "Wrinkles Removal is a tool in Photoshop that helps the user to remove the imperfections from a photo or image without making it blurry. This is useful for people to use when they want to retouch an old photo and make it look younger."
+            },
+            {
+                "disc": "A wrinkle removal tool is a tool used by digital artists and photographers to remove wrinkles from an image without interfering with the details of the photo.Wrinkles can be removed by blurring the pixels in a specific area of a photograph,which essentially removes any imperfections in that area without affecting or blurring any other part of it."
+            }
+        ],
+        "work": [
+            {
+                "after": "https://i.ibb.co/gRXGz4s/2-button-vegan-leather-jacket-anne-black-10810188-3-QK-flat.jpg",
+                "before": "https://i.ibb.co/D5f79fJ/do-file.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/jL0RzCZ/RAW.jpg",
+                "before": "https://i.ibb.co/tPQdHmZ/U706-M9-950-M-G1-0686.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/ZMdb7nX/RAW2.jpg",
+                "before": "https://i.ibb.co/Y2xJdhK/Done.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/JCZxYWM/RAW2.jpg",
+                "before": "https://i.ibb.co/jLgQ1V4/Done3.jpg"
+            },
+            {
+                "after": "https://i.ibb.co/CwtwrNn/raw.jpg",
+                "before": "https://i.ibb.co/BNHcspv/Done.jpg"
+            }
+        ],
+        "pricing": [
+            {
+                "name": "Basic Symmetric  image",
+                "price": 1.0
+            },
+            {
+                "name": "Medium Symmetric  image",
+                "price": 1.5
+            },
+            {
+                "name": "Complex Symmetric  image",
+                "price": 2.0
+            },
+            {
+                "name": "Super Complex Symmetric  image",
+                "price": 2.5
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Wrinkle remove",
+        "imgAfter": "https://i.ibb.co/JjLZZhm/raw.jpg",
+        "imgBefore": "https://i.ibb.co/K9kD6rz/work-file.jpg",
+        "description": [
+            {
+                "disc": "Wrinkles Removal is a tool in Photoshop that helps the user to remove the imperfections from a photo or image without making it blurry. This is useful for people to use when they want to retouch an old photo and make it look younger."
+            },
+            {
+                "disc": "A wrinkle removal tool is a tool used by digital artists and photographers to remove wrinkles from an image without interfering with the details of the photo.Wrinkles can be removed by blurring the pixels in a specific area of a photograph,which essentially removes any imperfections in that area without affecting or blurring any other part of it."
+            }
+        ],
+        "work": [],
+        "pricing": [
+            {
+                "name": "Basic Wrinkle Remove",
+                "price": 0.7
+            },
+            {
+                "name": "Medium Wrinkle Remove ",
+                "price": 0.9
+            },
+            {
+                "name": "Complex Wrinkle Remove",
+                "price": 1.0
+            },
+            {
+                "name": "Super Complex Wrinkle Remove",
+                "price": 1.2
+            }
+        ]
+    }
+]
